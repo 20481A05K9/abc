@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "442945082873",
+    "project_id": "sig-in-aff98",
+    "storage_bucket": "sig-in-aff98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442945082873:android:1de38d7245a3e30c3b9928",
+        "android_client_info": {
+          "package_name": "com.balert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442945082873-0h4378hihb0th5afm06lcld2puc3176q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.balert",
+            "certificate_hash": "16be9031953d55458705297c98870df832b87f71"
+          }
+        },
+        {
+          "client_id": "442945082873-c7kbmlvjsg553vhvts5tnq0nlp813cgl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.balert",
+            "certificate_hash": "de08c9328c422cbda9e5c911c3cd7c7dfe2dc561"
+          }
+        },
+        {
+          "client_id": "442945082873-k84vkccsc5c5sr9s5ttjbcurjatvndcv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.balert",
+            "certificate_hash": "2a7f6ec56de72893540df1a823303a21af4615ff"
+          }
+        },
+        {
+          "client_id": "442945082873-rk96bmhgkmtba8qu3i6r3alrh309rjts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.balert",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "442945082873-pk63ap9h47hjc57a9608r2r5cejs8903.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-nHlgLzMAoG-JIF76mKsQutT-C2C8ehw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442945082873-pk63ap9h47hjc57a9608r2r5cejs8903.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "442945082873-f969ksuk9hn2eatftmms81fag5dv3t53.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.balert"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
